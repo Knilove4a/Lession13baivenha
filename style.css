@@ -1,0 +1,82 @@
+#all{
+	width: 800px;
+	height: 1000px;
+	margin: auto;
+}
+#dong1{
+	width: 755px;
+	height: 25px;
+	margin-left: 40px;
+	background-color: red;
+}
+#dong2{
+	margin-left: 70px;
+}
+#xanhbien1{
+	float: left;
+	width: 500px;
+	height: 200px;
+	background-color: blue;
+}
+#xanhcay1{
+	float: left;
+    width: 200px ;
+    height: 100px;
+    background-color: green;
+}
+#mauvang{
+    float: left;
+    width: 200px ;
+    height: 100px;
+    background-color: yellow;
+}
+#xanhcay2{
+	float: left;
+    width: 300px ;
+    height: 100px;
+    background-color: green;
+}
+#do2{
+	float: left;
+    width: 200px ;
+    height: 150px;
+    background-color: red;
+}
+#maucam1{
+	float: left;
+    width: 200px ;
+    height: 75px;
+    background-color: orange;
+}
+#xanhcay3{
+	float: left;
+    width: 200px ;
+    height: 75px;
+    background-color: green;
+}
+#hong1{
+	float: left;
+    width: 150px ;
+    height: 150px;
+    background-color: pink;
+    margin-top: -50px;
+}
+#maucam2{
+	float: left;
+    width: 150px ;
+    height:150px;
+    background-color: orange;
+    margin-top: -50px;
+}
+#hong2{
+	float: left;
+    width: 400px ;
+    height: 100px;
+    background-color: pink;
+}
+#xanhbien2{
+	float: left;
+	width: 700px;
+	height: 25px;
+	background-color: blue;
+}
